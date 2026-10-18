@@ -1,0 +1,6 @@
+# MCP SDK v1 line: FastMCP API (from mcp.server.fastmcp import FastMCP)
+# Do NOT upgrade to mcp 2.x - the FastMCP import path and API changed there.
+mcp>=1.9.0,<2.0.0
+
+# Test framework (development dependency)
+pytest>=8.0.0
